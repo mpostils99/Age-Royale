@@ -1,4 +1,4 @@
-Un cop descarregat el .zip del pou de l'eStudy, iniciem el IntelliJ i obrim el projecte ubicat a la carpeta Programari.
+Un cop descarregat el .zip, iniciem el IntelliJ i obrim el projecte ubicat a la carpeta Programari.
 La base de dades l'hem fet amb el MySql Workbench, és necessari inicialitzar-la, cal executar l'arxiu "importsql.sql" que es troba ubicat a la carpeta BaseDeDades per a tenir correcte funcionament de la pràctica.
 
 Abans de fer res, localitza a files el fitxer config.json, per a canviar/actualitza les dades, i inserta la base de dades del programa.
